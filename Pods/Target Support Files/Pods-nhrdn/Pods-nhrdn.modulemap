@@ -1,0 +1,6 @@
+framework module Pods_nhrdn {
+  umbrella header "Pods-nhrdn-umbrella.h"
+
+  export *
+  module * { export * }
+}

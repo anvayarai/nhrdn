@@ -1,0 +1,6 @@
+framework module Pods_nhrdnUITests {
+  umbrella header "Pods-nhrdnUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
